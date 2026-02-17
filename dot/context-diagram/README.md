@@ -125,8 +125,8 @@ Edges are defined in these worksheets. Each row creates one directed relationshi
   | ![](./media/lists.png) |
   | :--------------------: |
 
-  > [!WARNING]
-  > If you add values to these lists, you must also create corresponding style definitions on the `styles` worksheet that follow the naming conventions.
+> [!WARNING]
+> If you add values to these lists, you must also create corresponding style definitions on the `styles` worksheet that follow the naming conventions.
 
 - **Options** — Provides additional controls for what elements are included in the context diagram.
 
@@ -223,10 +223,6 @@ This legend ensures the diagram is self‑documenting—no need to explain color
 
 This example is designed for architects, analysts, and solution designers who want to produce clear, consistent context diagrams without needing to understand or modify the underlying SQL. The focus is on using the structured worksheets and letting the Relationship Visualizer handle the rendering.
 
-### What You Don’t Need to Know
-
-You do not need to understand or modify the SQL to use this example. The SQL is already complete and simply reads the worksheets to generate the diagram, allowing you to focus entirely on the data you enter.
-
 ## What This Example Demonstrates
 
 This example shows how a small set of structured worksheets—Actors, Applications, Data Stores, Notes, and their connecting relationships—can be combined with the Relationship Visualizer to produce a clear, self‑documenting context diagram. It illustrates the full workflow: defining the data, selecting what’s in scope, adding the interactions, and generating a styled, presentation‑ready diagram with a single SQL run.
@@ -252,7 +248,7 @@ These adjustments let you adapt the example to reflect your own enterprise envir
 
 ### What Not to Change
 
-Avoid modifying the SQL unless you intend to extend the model. The example is designed to work as‑is, and changes to the SQL may cause the diagram to render incorrectly or fail to generate.
+You do not need to understand or modify the SQL to use this example. The SQL is already complete and simply reads the worksheets to generate the diagram. Avoid changing it unless you intend to extend the model, as modifications may cause the diagram to render incorrectly or fail to generate.
 
 With the boundaries and customization options in mind, you’re ready to walk through the example.
 
@@ -268,7 +264,7 @@ With that structure in mind, you can walk through the example in just a few step
 6. Navigate to the **SQL** worksheet.
 7. Press **Run SQL Commands** to execute the queries and instantly render the context diagram.
 
-### Adapting the Example
+## Adapting the Example
 
 This example is intended as a starting point. You can use it as‑is to generate a complete context diagram, or adapt the structure to reflect your own enterprise environment and modeling standards.
 
