@@ -14,6 +14,7 @@ https://graphviz.org/docs/layouts/dot/
 ## Included Examples
 - [**org-chart**](./org-chart/) — Full enterprise hierarchy visualization (advanced, reusable)
 - [**context-diagram**](./context-diagram/) — IT system context diagrams (advanced, reusable)  
+- [**timeline-roadmap**](./timeline-roadmap/) — Roadmap of activities mapped to a timeline, with dependencies (intermediate, tutorial)
 
 ## When to Use dot
 Use these examples when you need:
@@ -37,3 +38,11 @@ Use these examples when you need:
 
 | ![](./context-diagram/Context%20Diagram.png) |
 | ------------------------------------------------------------------ |
+
+### Timeline Roadmap
+
+[GIF](./timeline-roadmap/Graph%20-%20All%20Styles.gif) - [JPG](./timeline-roadmap/Graph%20-%20All%20Styles.jpg) - [PDF](./timeline-roadmap/Graph%20-%20All%20Styles.pdf) - [PNG](./timeline-roadmap/Graph%20-%20All%20Styles.png) - [SVG](./timeline-roadmap/Graph%20-%20All%20Styles.svg)
+
+| ![](./timeline-roadmap/Graph%20-%20All%20Styles.png) |
+| ------------------------------------------------------------------ |
+
