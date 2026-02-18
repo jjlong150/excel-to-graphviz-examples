@@ -12,6 +12,7 @@ https://graphviz.org/docs/layouts/dot/
 - Brief notes explaining each example  
 
 ## Included Examples
+- [**london-underground**](./london-underground//) — A data‑driven map of the Tube network (introductory, informative)
 - [**org-chart**](./org-chart/) — Full enterprise hierarchy visualization (advanced, reusable)
 - [**context-diagram**](./context-diagram/) — IT system context diagrams (advanced, reusable)  
 - [**timeline-ranges**](./timeline-ranges/) — Roadmap of activities mapped to a timeline, with dependencies (intermediate, tutorial)
@@ -26,12 +27,19 @@ Use these examples when you need:
 
 ## Gallery
 
+### London Underground
+
+[GIF](./london-underground/London%20Underground%20-%20Metropolitan.gif) - [JPG](./london-underground/London%20Underground%20-%20Metropolitan.jpg) - [PDF](./london-underground/London%20Underground%20-%20Metropolitan.pdf) - [PNG](./london-underground/London%20Underground%20-%20Metropolitan.png) - [SVG](./london-underground/London%20Underground%20-%20Metropolitan.svg)
+
+| ![](./london-underground/London%20Underground%20-%20Metropolitan.png) |
+| --------------------------------------------------------------------- |
+
 ### Organization Charts
 
 [GIF](./org-chart/Graph%20-%20All%20Styles.gif) - [JPG](./org-chart/Graph%20-%20All%20Styles.jpg) - [PDF](./org-chart/Graph%20-%20All%20Styles.pdf) - [PNG](./org-chart/Graph%20-%20All%20Styles.png) - [SVG](./org-chart/Graph%20-%20All%20Styles.svg)
 
 | ![](./org-chart/Graph%20-%20All%20Styles.png) |
-| ------------------------------------------------------------------ |
+| --------------------------------------------- |
 
 ### IT System Context Diagrams
 
