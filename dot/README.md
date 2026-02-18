@@ -14,7 +14,8 @@ https://graphviz.org/docs/layouts/dot/
 ## Included Examples
 - [**org-chart**](./org-chart/) — Full enterprise hierarchy visualization (advanced, reusable)
 - [**context-diagram**](./context-diagram/) — IT system context diagrams (advanced, reusable)  
-- [**timeline-roadmap**](./timeline-roadmap/) — Roadmap of activities mapped to a timeline, with dependencies (intermediate, tutorial)
+- [**timeline-ranges**](./timeline-ranges/) — Roadmap of activities mapped to a timeline, with dependencies (intermediate, tutorial)
+- [**timeline-roadmap**](./timeline-roadmap/) — A year‑aligned timeline showing when artists were active across decades. (intermediate, tutorial)
 
 ## When to Use dot
 Use these examples when you need:
@@ -37,6 +38,13 @@ Use these examples when you need:
 [GIF](./context-diagram/Context%20Diagram.gif) - [JPG](./context-diagram/Context%20Diagram.jpg) - [PDF](./context-diagram/Context%20Diagram.pdf) - [PNG](./context-diagram/Context%20Diagram.png) - [SVG](./context-diagram/Context%20Diagram.svg)
 
 | ![](./context-diagram/Context%20Diagram.png) |
+| ------------------------------------------------------------------ |
+
+### Timeline Ranges
+
+[GIF](./timeline-ranges/Graph%20-%20All%20Styles.gif) - [JPG](./timeline-ranges/Graph%20-%20All%20Styles.jpg) - [PDF](./timeline-ranges/Graph%20-%20All%20Styles.pdf) - [PNG](./timeline-ranges/Graph%20-%20All%20Styles.png) - [SVG](./timeline-ranges/Graph%20-%20All%20Styles.svg)
+
+| ![](./timeline-ranges/Graph%20-%20All%20Styles.png) |
 | ------------------------------------------------------------------ |
 
 ### Timeline Roadmap
