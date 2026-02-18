@@ -29,7 +29,7 @@
 <title>cluster_3</title>
 <g id="a_clust4"><a xlink:title="Business to Consumer">
 <path fill="white" stroke="#b3b3b3" d="M44,-594C44,-594 274,-594 274,-594 280,-594 286,-600 286,-606 286,-606 286,-1129.12 286,-1129.12 286,-1135.12 280,-1141.12 274,-1141.12 274,-1141.12 44,-1141.12 44,-1141.12 38,-1141.12 32,-1135.12 32,-1129.12 32,-1129.12 32,-606 32,-606 32,-600 38,-594 44,-594"/>
-<text xml:space="preserve" text-anchor="middle" x="159" y="-1125.72" font-family="Calibri" font-size="12.00">Corporate Applications</text>
+<text xml:space="preserve" text-anchor="middle" x="159" y="-1125.72" font-family="Calibri" font-size="12.00">Business to Consumer</text>
 </a>
 </g>
 </g>
@@ -37,15 +37,15 @@
 <title>cluster_4</title>
 <g id="a_clust5"><a xlink:title="Consumer Lending">
 <path fill="white" stroke="#b3b3b3" d="M310,-1022.62C310,-1022.62 572,-1022.62 572,-1022.62 578,-1022.62 584,-1028.62 584,-1034.62 584,-1034.62 584,-1135.62 584,-1135.62 584,-1141.62 578,-1147.62 572,-1147.62 572,-1147.62 310,-1147.62 310,-1147.62 304,-1147.62 298,-1141.62 298,-1135.62 298,-1135.62 298,-1034.62 298,-1034.62 298,-1028.62 304,-1022.62 310,-1022.62"/>
-<text xml:space="preserve" text-anchor="middle" x="441" y="-1132.22" font-family="Calibri" font-size="12.00">Corporate Applications</text>
+<text xml:space="preserve" text-anchor="middle" x="441" y="-1132.22" font-family="Calibri" font-size="12.00">Consumer Lending</text>
 </a>
 </g>
 </g>
 <g id="clust6" class="cluster">
 <title>cluster_5</title>
 <g id="a_clust6"><a xlink:title="Perimeter Network">
-<path fill="white" stroke="#b3b3b3" d="M310,-576C310,-576 413,-576 413,-576 419,-576 425,-582 425,-588 425,-588 425,-689 425,-689 425,-695 419,-701 413,-701 413,-701 310,-701 310,-701 304,-701 298,-695 298,-689 298,-689 298,-588 298,-588 298,-582 304,-576 310,-576"/>
-<text xml:space="preserve" text-anchor="middle" x="361.5" y="-685.6" font-family="Calibri" font-size="12.00">Corporate Applications</text>
+<path fill="white" stroke="#b3b3b3" d="M310,-576C310,-576 396,-576 396,-576 402,-576 408,-582 408,-588 408,-588 408,-689 408,-689 408,-695 402,-701 396,-701 396,-701 310,-701 310,-701 304,-701 298,-695 298,-689 298,-689 298,-588 298,-588 298,-582 304,-576 310,-576"/>
+<text xml:space="preserve" text-anchor="middle" x="353" y="-685.6" font-family="Calibri" font-size="12.00">Perimeter Network</text>
 </a>
 </g>
 </g>
@@ -61,7 +61,7 @@
 <title>cluster_7</title>
 <g id="a_clust8"><a xlink:title="Cloud Service Provider">
 <path fill="white" stroke="#b3b3b3" d="M310,-358C310,-358 575,-358 575,-358 581,-358 587,-364 587,-370 587,-370 587,-471 587,-471 587,-477 581,-483 575,-483 575,-483 310,-483 310,-483 304,-483 298,-477 298,-471 298,-471 298,-370 298,-370 298,-364 304,-358 310,-358"/>
-<text xml:space="preserve" text-anchor="middle" x="442.5" y="-467.6" font-family="Calibri" font-size="12.00">Internet</text>
+<text xml:space="preserve" text-anchor="middle" x="442.5" y="-467.6" font-family="Calibri" font-size="12.00">Cloud Service Provider</text>
 </a>
 </g>
 </g>
@@ -69,7 +69,7 @@
 <title>cluster_8</title>
 <g id="a_clust9"><a xlink:title="Consumer&#39;s Home">
 <path fill="white" stroke="#b3b3b3" d="M428,-32C428,-32 510,-32 510,-32 516,-32 522,-38 522,-44 522,-44 522,-275.25 522,-275.25 522,-281.25 516,-287.25 510,-287.25 510,-287.25 428,-287.25 428,-287.25 422,-287.25 416,-281.25 416,-275.25 416,-275.25 416,-44 416,-44 416,-38 422,-32 428,-32"/>
-<text xml:space="preserve" text-anchor="middle" x="469" y="-271.85" font-family="Calibri" font-size="12.00">Internet</text>
+<text xml:space="preserve" text-anchor="middle" x="469" y="-271.85" font-family="Calibri" font-size="12.00">Consumer&#39;s Home</text>
 </a>
 </g>
 </g>
@@ -77,7 +77,7 @@
 <title>cluster_9</title>
 <g id="a_clust10"><a xlink:title="Email Services">
 <path fill="white" stroke="#b3b3b3" d="M310,-175.75C310,-175.75 392,-175.75 392,-175.75 398,-175.75 404,-181.75 404,-187.75 404,-187.75 404,-288.75 404,-288.75 404,-294.75 398,-300.75 392,-300.75 392,-300.75 310,-300.75 310,-300.75 304,-300.75 298,-294.75 298,-288.75 298,-288.75 298,-187.75 298,-187.75 298,-181.75 304,-175.75 310,-175.75"/>
-<text xml:space="preserve" text-anchor="middle" x="351" y="-285.35" font-family="Calibri" font-size="12.00">Internet</text>
+<text xml:space="preserve" text-anchor="middle" x="351" y="-285.35" font-family="Calibri" font-size="12.00">Email Services</text>
 </a>
 </g>
 </g>
