@@ -6,7 +6,7 @@ A **Kanban Board** is a visual workflow management system that organizes work in
 
 This package demonstrates how to model and visualize Kanban Boards using the Relationship Visualizer with SQL‑driven queries. It includes a curated dataset of tasks, statuses, work types, and importance levels, along with a clean, minimal color‑coding scheme designed for clarity and fast visual scanning.
 
-For a concise introduction to Kanban principles, see the [Kanban Guide](https://kanban.university/guide/) by Kanban University.
+For a concise introduction to Kanban principles, see the [Kanban Guide](https://kanban.university/kanban-guide/) by Kanban University.
 
 | ![](./Graph%20-%20All%20Styles.png) |
 | :------------------------: |
