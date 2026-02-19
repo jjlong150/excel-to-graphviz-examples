@@ -13,6 +13,7 @@ https://graphviz.org/docs/layouts/osage/
 
 Included examples:
 - [**the-beatles-album-releases-by-year**](./the-beatles-album-releases-by-year/) — Album releases by The Beatles (1963–1970), clustered by year and canonical album, with each node styled using the album cover.  
+- [**kanban**](./kanban/) — A Kanban Board with nodes clustered by status, with each work type styled in a unique color.  
 - [**rock-band-by-decade**](./rock-band-by-decade/) — Nodes clustered by decade, with each genre styled in a unique color.  
 - [**rock-band-by-decade-genre**](./rock-band-by-decade-genre/) — Nodes clustered by decade and subclustered by genre, with genre‑based color styling.  
 - [**rock-band-by-genre**](./rock-band-by-genre/) — Nodes clustered by genre, each styled in a unique color per genre.  
@@ -20,7 +21,7 @@ Included examples:
 
 ## When to Use osage
 Use these examples when you need:
-- Clustered or compartmentalized diagrams  
+- Clustered or compartmentalized diagrams 
 - Side‑by‑side department or category groupings  
 - Partitioned layouts with clear boundaries  
 - Visual separation of logical or organizational units  
@@ -35,6 +36,13 @@ Click any of the image links below to view high‑resolution versions.
 
 | ![](./the-beatles-album-releases-by-year/Graph%20-%20All%20Styles.png) |
 | ---------------------------------------------------------------------- |
+
+### Kanban Board
+
+[GIF](./kanban/Graph%20-%20All%20Styles.gif) - [PDF](./kanban/Graph%20-%20All%20Styles.pdf) - [PNG](./kanban/Graph%20-%20All%20Styles.png) - [SVG](./kanban/Graph%20-%20All%20Styles.svg)
+
+| ![](./kanban/Graph%20-%20All%20Styles.png) |
+| ------------------------------------------------------- |
 
 ### Rock Bands by Decade
 
