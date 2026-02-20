@@ -12,11 +12,20 @@ https://graphviz.org/docs/layouts/patchwork/
 - Brief notes explaining each example  
 
 ## Included Examples
-(Examples will be added here as they are created.)
+- [**continent-area**](./continent-area/) — Visualize the total land area of each continent as proportional regions, aggregated from country‑level records.
 
 ## When to Use patchwork
 Use these examples when you need:
 - Treemap‑style visualizations  
-- Space‑filling layouts  
 - Proportional area representations  
-- Compact overviews of grouped data  
+
+## Gallery
+
+Click any of the image links below to view high‑resolution versions.
+
+### Continent Area
+
+[GIF](./continent-area/Graph%20-%20All%20Styles.gif) - [JPG](./continent-area/Graph%20-%20All%20Styles.jpg) - [PDF](./continent-area/Graph%20-%20All%20Styles.pdf) - [PNG](./continent-area/Graph%20-%20All%20Styles.png) - [SVG](./continent-area/Graph%20-%20All%20Styles.svg)
+
+| ![](./continent-area/Graph%20-%20All%20Styles.png) |
+| -------------------------------------------------- |
