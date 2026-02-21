@@ -1,74 +1,83 @@
 # Excel to Graphviz Examples
 
-This repository contains a curated set of example diagrams and datasets that demonstrate how the Relationship Visualizer spreadsheet transforms Excel data into polished Graphviz diagrams.
+**Transform Excel data into professional Graphviz diagrams effortlessly.**
 
-**Excel to Graphviz** refers to the full project: the Relationship Visualizer spreadsheet, the documentation, the examples, and the main website.
+This repository is your go-to collection of practical, ready-to-use examples for the **Relationship Visualizer** — the powerful Excel spreadsheet that turns tabular data into stunning Graphviz visualizations.
 
-The **Relationship Visualizer** is the spreadsheet itself — the primary tool used to generate Graphviz diagrams from Excel data.
+Whether you're mapping org charts, dependencies, hierarchies, business processes, data classifications, or complex networks, these examples show real-world patterns using SQL queries, styling tricks, and every major Graphviz layout engine.
 
-## Excel to Graphviz Website
+## Quick Links
 
-For documentation, tutorials, and the latest release, visit:
+[![Latest Release v10.1.0](https://img.shields.io/badge/Latest%20Release-v10.1.0%20(Feb%202026)-brightgreen)](https://github.com/jjlong150/ExcelToGraphviz/releases/latest)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Free%20Excel%20Tool-green)](https://sourceforge.net/projects/relationship-visualizer/files/latest/download)
+[![Changelog](https://img.shields.io/badge/Full%20Changelog-exceltographviz.com/changelog-blue)](https://exceltographviz.com/changelog)
 
-https://exceltographviz.com/
+- 🌐 **Main Website & Documentation**: [exceltographviz.com](https://exceltographviz.com/) — tutorials, guides, and more
+- 📥 **Latest Release (v10.1.0 — Feb 2026)**: [GitHub Releases](https://github.com/jjlong150/ExcelToGraphviz/releases/latest) — what's new & download assets
+- ⬇️ **Download Relationship Visualizer**: [SourceForge (Latest ZIP)](https://sourceforge.net/projects/relationship-visualizer/files/latest/download) — free tool, ~81 MB
+- 📜 **Full Changelog**: [exceltographviz.com/changelog](https://exceltographviz.com/changelog) — detailed version history
+- 🔧 **Core Tool Repository**: [github.com/jjlong150/ExcelToGraphviz](https://github.com/jjlong150/ExcelToGraphviz) — source, issues, and contributions
+- ☕ **Support / Buy Me a Coffee**: [buymeacoffee.com/exceltographviz](https://www.buymeacoffee.com/exceltographviz) — optional appreciation if this tool helps your work!
 
-## Graphviz Layout Engines
+## Browse Examples by Graphviz Layout Engine
 
-Browse examples by Graphviz layout engine to quickly find patterns that match the type of diagram you want to create.
+Find the perfect layout style for your diagram in seconds:
 
-| Engine | Description |
-|--------|-------------|
-| [**dot**](./dot/) | Hierarchical layouts (trees, org charts, dependency chains) |
-| [**neato**](./neato/) | Force‑directed layouts for loosely structured networks |
-| [**fdp**](./fdp/) | Force‑directed layouts for medium‑sized undirected graphs |
-| [**sfdp**](./sfdp/) | Scalable force‑directed layouts for large networks |
-| [**twopi**](./twopi/) | Radial layouts with concentric levels |
-| [**circo**](./circo/) | Circular and cyclic layouts |
-| [**osage**](./osage/) | Clustered or partitioned layouts |
-| [**patchwork**](./patchwork/) | Treemap‑style, space‑filling layouts |
+| Engine     | Best For                                      | Folder                          |
+|------------|-----------------------------------------------|---------------------------------|
+| **dot**    | Trees, hierarchies, org charts, dependencies  | [`./dot/`](dot/)                |
+| **neato**  | Organic, force-directed networks              | [`./neato/`](neato/)            |
+| **fdp**    | Medium-sized undirected graphs                | [`./fdp/`](fdp/)                |
+| **sfdp**   | Large-scale networks & force layouts          | [`./sfdp/`](sfdp/)              |
+| **twopi**  | Radial, concentric, layered diagrams          | [`./twopi/`](twopi/)            |
+| **circo**  | Circular, ring, cyclic structures             | [`./circo/`](circo/)            |
+| **osage**  | Clustered, partitioned, grouped layouts       | [`./osage/`](osage/)            |
+| **patchwork** | Treemap-style, space-filling hierarchies   | [`./patchwork/`](patchwork/)    |
 
-Each engine folder contains:
+Each engine folder includes:
+- Ready-to-open **Excel workbooks** (.xlsx)
+- Scenario description in a mini-README
+- SQL patterns (including recursive TREE QUERY examples)
+- Generated **Graphviz output** (SVG, PNG)
+- Styling, layout tweaks, and modeling notes
 
-- One or more **example workbooks**  
-- A **mini‑README** explaining the scenario  
-- SQL and other patterns used in the Relationship Visualizer  
-- The resulting Graphviz output (SVG/PNG)  
-- Notes on styling, layout, and modeling techniques  
+## Example Previews
 
-Beyond the engine‑specific examples, this repository also demonstrates a range of modeling and visualization techniques.
+Here's a quick taste of what these examples produce:
 
-## What You’ll Find Here
+![Org Chart Example (dot engine)](./dot/org-chart/Graph%20-%20All%20Styles.png)  
+*Hierarchical org chart using dot layout*
 
-- Fully‑worked examples using real SQL queries inside the Relationship Visualizer  
-- Demonstrations of Relationship Visualizer patterns (including recursive `TREE QUERY` SQL)  
-- Techniques for building diagrams from flat tables using SQL  
-- Examples of node and edge styling for clearer diagrams  
-- Parameterized SQL patterns for filtering, slicing, and reshaping data  
-- Best practices for structuring Excel tables for graph modeling  
+![Network Example (neato)](./neato/rock-band-musician-connections/Graph%20-%20All%20Styles.png)  
+*Force-directed network using neato*
 
-## Why These Examples Matter
+## What You'll Discover in These Examples
 
-The Relationship Visualizer is capable of far more than simple diagrams — it can model hierarchies, dependencies, classifications, and multi‑level structures directly from Excel.
+- Real SQL queries powering node/edge generation (enhanced in v10.1.0 with concatenation modes for cleaner detail aggregation)
+- Turning flat Excel tables (HR exports, BOMs, process lists, etc.) into rich, dynamic graphs
+- Recursive hierarchies, multi-level dependencies, filtered/parameterized views
+- Advanced node & edge styling for maximum clarity and visual impact
+- Best practices for Excel-to-Graphviz data modeling workflows
+- Techniques inspired by enterprise exports (all datasets are **synthetic/fictional**)
 
-These examples are designed to:
+These aren't just pretty pictures — they're reusable templates that teach you how to:
 
-- Teach the underlying modeling patterns  
-- Show how SQL and Graphviz work together  
-- Provide reusable templates for your own projects  
-- Demonstrate how to turn spreadsheet data into computable graph structures  
+- Model complex relationships directly in Excel
+- Leverage SQL + Graphviz for dynamic, data-driven diagrams
+- Avoid common pitfalls in graph layout and readability
 
-## About the Data
+## Who Uses This?
 
-Some examples use synthetic datasets modeled after the flat, row‑based exports commonly produced by enterprise HR systems such as PeopleSoft, Workday, and SAP HCM. These datasets are **fictional** and exist solely to demonstrate modeling techniques.
+Analysts, data modelers, architects, process engineers, HR teams, IT documentation specialists — anyone who needs to **visualize relationships**, dependencies, or structures that live in spreadsheets.
 
 ## Contributing
 
-Contributions, improvements, and new examples are welcome.
+New examples, better SQL patterns, styling improvements, or additional engines? Pull requests are welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines."
 
-If you have a pattern, SQL technique, or visualization style that others might benefit from, feel free to open a pull request.
+If you've built an interesting diagram type or technique with Relationship Visualizer, please share it here — it'll help the whole community.
 
 ## License
 
-This repository is released under the **MIT License**.
+[MIT License](./LICENSE) — free to use, modify, and share.
 
-You are free to use, modify, and distribute the examples with minimal restrictions.
+Start exploring the engine folders above, download the latest v10.1.0 from [exceltographviz.com](https://exceltographviz.com/), or jump straight to the [core repo](https://github.com/jjlong150/ExcelToGraphviz) to get diagramming today!
