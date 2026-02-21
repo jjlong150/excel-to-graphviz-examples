@@ -15,6 +15,7 @@ https://graphviz.org/docs/layouts/dot/
 - [**london-underground**](./london-underground//) — A data‑driven map of the Tube network (introductory, informative)
 - [**org-chart**](./org-chart/) — Full enterprise hierarchy visualization (advanced, reusable)
 - [**context-diagram**](./context-diagram/) — IT system context diagrams (advanced, reusable)  
+- [**timeline-unix-shells**](./timeline-unix-shells/) — A year‑aligned timeline showing the evolution of Unix Shells (introductory, tutorial)
 - [**timeline-ranges**](./timeline-ranges/) — Roadmap of activities mapped to a timeline, with dependencies (intermediate, tutorial)
 - [**timeline-roadmap**](./timeline-roadmap/) — A year‑aligned timeline showing when artists were active across decades. (intermediate, tutorial)
 
@@ -48,14 +49,21 @@ Use these examples when you need:
 | ![](./context-diagram/Context%20Diagram.png) |
 | ------------------------------------------------------------------ |
 
-### Timeline Ranges
+### Timeline - Unix Shells
+
+[GIF](./timeline-unix-shells/Graph%20-%20All%20Styles.gif) - [JPG](./timeline-unix-shells/Graph%20-%20All%20Styles.jpg) - [PDF](./timeline-unix-shells/Graph%20-%20All%20Styles.pdf) - [PNG](./timeline-unix-shells/Graph%20-%20All%20Styles.png) - [SVG](./timeline-unix-shells/Graph%20-%20All%20Styles.svg)
+
+| ![](./timeline-unix-shells/Graph%20-%20All%20Styles.png) |
+| -------------------------------------------------------- |
+
+### Timeline - History Ranges
 
 [GIF](./timeline-ranges/Graph%20-%20All%20Styles.gif) - [JPG](./timeline-ranges/Graph%20-%20All%20Styles.jpg) - [PDF](./timeline-ranges/Graph%20-%20All%20Styles.pdf) - [PNG](./timeline-ranges/Graph%20-%20All%20Styles.png) - [SVG](./timeline-ranges/Graph%20-%20All%20Styles.svg)
 
 | ![](./timeline-ranges/Graph%20-%20All%20Styles.png) |
 | ------------------------------------------------------------------ |
 
-### Timeline Roadmap
+### Timeline - Product Roadmap
 
 [GIF](./timeline-roadmap/Graph%20-%20All%20Styles.gif) - [JPG](./timeline-roadmap/Graph%20-%20All%20Styles.jpg) - [PDF](./timeline-roadmap/Graph%20-%20All%20Styles.pdf) - [PNG](./timeline-roadmap/Graph%20-%20All%20Styles.png) - [SVG](./timeline-roadmap/Graph%20-%20All%20Styles.svg)
 
