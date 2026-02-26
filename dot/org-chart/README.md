@@ -192,7 +192,7 @@ Create the nodes for the Associates.
 
 1. Open the Relationship Visualizer workbook.  
 2. Navigate to the SQL worksheet.  
-3. Locate the data input parameter cells beginning on row 2 in columns `G–H`.  
+3. Locate the data input parameter cells beginning on row 6 in columns `F-G`.  
    - Enter an **Employee ID Number** (use `EID‑0694` to generate the full tree) beside the `{ID Number}` placeholder.  
    - Enter the **number of levels below** the employee to display beside the `{Max Down}` placeholder.  
    - Enter the **number of levels above** the employee to display beside the `{Max Up}` placeholder.  
