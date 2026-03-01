@@ -12,7 +12,8 @@ https://graphviz.org/docs/layouts/dot/
 - Brief notes explaining each example  
 
 ## Included Examples
-- [**london-underground**](./london-underground//) — A data‑driven map of the Tube network (introductory, informative)
+- [**the-beatles-albums**](./the-beatles-albums/) — Albums released by The Beatles, by country (introductory, uses filters and images)
+- [**london-underground**](./london-underground/) — A data‑driven map of the Tube network (introductory, informative, uses clustering and views)
 - [**org-chart**](./org-chart/) — Full enterprise hierarchy visualization (advanced, reusable)
 - [**context-diagram**](./context-diagram/) — IT system context diagrams (advanced, reusable)  
 - [**timeline-unix-shells**](./timeline-unix-shells/) — A year‑aligned timeline showing the evolution of Unix Shells (introductory, tutorial)
@@ -27,6 +28,13 @@ Use these examples when you need:
 - Any diagram where rank or direction matters  
 
 ## Gallery
+
+### Albums by The Beatles
+
+[GIF](./the-beatles-albums/Graph%20-%20All%20Styles.gif) - [JPG](./the-beatles-albums/Graph%20-%20All%20Styles.pdf) - [PDF](./the-beatles-albums/Graph%20-%20All%20Styles.pdf) - [PNG](./the-beatles-albums/Graph%20-%20All%20Styles.png) - [SVG](./the-beatles-albums/Graph%20-%20All%20Styles.svg)
+
+| ![](./the-beatles-albums/Graph%20-%20All%20Styles.png) |
+| --------------------------------------------------------------------- |
 
 ### London Underground
 
